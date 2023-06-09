@@ -1,9 +1,9 @@
 {
-  "name": "nectargpt-prompt-extension",
+  "name": "chatgpt-prompt-extension",
   "version": "0.3.0",
-  "description": "NectarGPT Prompts",
-  "author": "mr",
-  "repository": "",
+  "description": "ChatGPT Prompts",
+  "author": "Cem PEHLİVAN",
+  "repository": "https://github.com/cempehlivan/chatgpt-prompt-chrome-extension",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",

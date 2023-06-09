@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "NectarGPT Prompts",
+  "name": "ChatGPT Prompts",
   "version": "0.3.0",
-  "description": "NectarGPT Prompts to supercharge chatgpt",
+  "description": "ChatGPT Prompts",
   "icons": {
     "16": "icons/icon_16.png",
     "32": "icons/icon_32.png",
@@ -13,7 +13,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "NectarGPT Prompts"
+    "default_title": "ChatGPT Prompts"
   },
   "content_scripts": [
     {
