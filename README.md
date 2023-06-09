@@ -1,16 +1,12 @@
-![logo](https://raw.githubusercontent.com/cempehlivan/nectargpt-prompt-chrome-extension/main/public/icons/icon_128.png)
+![logo]()
 
 # NectarGPT Prompt Chrome Extension
 
 This extension allows you to use ready prompts on NectarGPT.
 
-It uses [Awesome NectarGPT Prompts](https://github.com/f/awesome-nectargpt-prompts) repository as its datasource.
+It uses [Awesome NectarGPT Prompts]() repository as its datasource.
 
 ## Download
-
-Get it from the Chrome extension store: [Add to Chrome](https://chrome.google.com/webstore/detail/nectargpt-prompts/igaldenhhkaelahplnglcdcfmmhhmgdj)
-
-
 ## Quick Overview
 
 Then follow these instructions to see your extension:
@@ -20,4 +16,4 @@ Then follow these instructions to see your extension:
 4. Select the folder **nectargpt-prompt-extension/build**
 
 
-![ss](https://raw.githubusercontent.com/cempehlivan/nectargpt-prompt-chrome-extension/main/ss.png)
+![ss]()
